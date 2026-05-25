@@ -68,36 +68,9 @@ background-position:center;
 
 min-height:420px;
 
-display:flex;
-
-align-items:flex-end;
-
-justify-content:center;
-
-padding-bottom:40px;
-
 border-radius:12px;
 
 margin-top:30px;
 
-overflow:hidden;
-
 }
 
-.hero_overlay {
-
-background:
-
-rgba(5,5,26,0.35);
-
-padding:30px;
-
-border-radius:12px;
-
-text-align:center;
-
-backdrop-filter:blur(1px);
-
-max-width:70%;
-
-}
